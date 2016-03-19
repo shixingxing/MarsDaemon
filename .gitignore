@@ -1,0 +1,6 @@
+/.gradle
+/build
+/.idea
+/*.iml
+/DemoMarsdaemon/*.iml
+/LibMarsdaemon/*.iml
